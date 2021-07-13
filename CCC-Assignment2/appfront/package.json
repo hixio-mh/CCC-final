@@ -15,7 +15,7 @@
     "webpack": "webpack"
   },
   "dependencies": {
-    "@jiaminghi/data-view": "^2.8.1",
+    "@jiaminghi/data-view": "^2.10.0",
     "axios": "^0.19.2",
     "echarts": "^4.7.0",
     "element-ui": "^2.13.1",
